@@ -9,17 +9,17 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.4",
     "autoprefixer": "^10.4.8",
-    "nuxt": "3.0.0-rc.6",
+    "nuxt": "3.12.4",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   },
   "dependencies": {
-    "@formkit/nuxt": "^1.0.0-beta.10",
+    "@formkit/nuxt": "^1.6.5",
     "@formkit/themes": "^1.0.0-beta.10",
     "@formkit/vue": "^1.0.0-beta.10",
-    "@pinia/nuxt": "^0.3.1",
+    "@pinia/nuxt": "^0.5.4",
     "@vueuse/core": "^9.1.0",
-    "contentful": "^9.1.33",
+    "contentful": "^9.3.7",
     "daisyui": "^2.22.0",
     "marked": "^4.0.18",
     "pinia": "^2.0.18",
